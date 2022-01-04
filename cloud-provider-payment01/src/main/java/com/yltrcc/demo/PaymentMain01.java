@@ -1,13 +1,13 @@
 package com.yltrcc.demo;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
-@MapperScan("com.yltrcc.demo.dao")
-public class PaymentMain {
+@EnableEurekaClient
+public class PaymentMain01 {
     public static void main(String[] args) {
-        SpringApplication.run(PaymentMain.class, args);
+        SpringApplication.run(PaymentMain01.class, args);
     }
 }

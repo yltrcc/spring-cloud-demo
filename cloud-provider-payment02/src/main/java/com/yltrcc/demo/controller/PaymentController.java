@@ -33,7 +33,7 @@ public class PaymentController {
     public CommonResult create(@RequestBody Payment payment)
     {
         int result = paymentService.insert(payment);
-        log.info("*****新增结果:" + result);
+        log.info("*****插入操作返回结果:" + result);
 
         if(result > 0)
         {

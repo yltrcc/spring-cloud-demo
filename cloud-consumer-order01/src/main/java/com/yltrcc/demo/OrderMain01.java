@@ -2,6 +2,7 @@ package com.yltrcc.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * Package: com.yltrcc.demo
@@ -13,9 +14,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version 1.0
  */
 @SpringBootApplication
-public class OrderMain {
+@EnableEurekaClient
+public class OrderMain01 {
 
     public static void main(String[] args) {
-        SpringApplication.run(OrderMain.class, args);
+        SpringApplication.run(OrderMain01.class, args);
     }
 }

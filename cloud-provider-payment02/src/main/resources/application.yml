@@ -1,5 +1,5 @@
 server:
-  port: 8001
+  port: 8002
 
 spring:
   application:
@@ -24,3 +24,8 @@ eureka:
 mybatis:
   mapperLocations: classpath:mapper/*.xml
   type-aliases-package: com.yltrcc.demo.entities    # 所有Entity别名类所在包
+
+
+
+
+
