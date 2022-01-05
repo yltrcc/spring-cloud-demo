@@ -6,7 +6,10 @@ cloud-provider-payment01 - 8001
 cloud-provider-payment02 - 8002
 cloud-provider-payment03 - 8003
 
+cloud-provider-payment04 - 8004
+
 cloud-consumer-order01 - 80
+cloud-consumer-zk-order - 80
 
 cloud-eureka-server01 - 7001
 cloud-eureka-server02 - 7002
