@@ -30,3 +30,10 @@ cloud-consumer-hystrix-dashboard - 9001
 
 ## 网关
 cloud-gateway-gateway - 9527
+
+## 消息队列
+
+* 作为生产者进行发消息模块 cloud-stream-rabbitmq-provider - 8801
+* 作为消息接收模块 cloud-stream-rabbitmq-consumer01 - 8802
+* 作为消息接收模块 cloud-stream-rabbitmq-consumer02 - 8803
+

@@ -24,6 +24,9 @@
         <module>cloud-consumer-feign-hystrix-order</module>
         <module>cloud-consumer-hystrix-dashboard</module>
         <module>cloud-gateway-gateway</module>
+        <module>cloud-stream-rabbitmq-provider</module>
+        <module>cloud-stream-rabbitmq-consumer01</module>
+        <module>cloud-stream-rabbitmq-consumer02</module>
     </modules>
 
 
