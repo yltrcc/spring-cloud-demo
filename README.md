@@ -13,6 +13,7 @@ cloud-provider-consul-payment - 8006
 cloud-consumer-order01 - 80
 cloud-consumer-zk-order - 80
 cloud-consumer-consul-order - 80
+cloud-consumer-feign-order - 80
 
 cloud-eureka-server01 - 7001
 cloud-eureka-server02 - 7002
