@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Package: com.com.yltrcc.demo.config
+ * Package: com.yltrcc.demo.config
  * Date：2022-01-07
  * Time：1:31
  * Description：TODO

@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 import java.util.UUID;
 
 /**
- * Package: com.com.yltrcc.demo.service.impl
+ * Package: com.yltrcc.demo.service.impl
  * Date：2022-01-07
  * Time：5:15
  * Description：TODO

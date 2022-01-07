@@ -8,7 +8,7 @@ import org.springframework.messaging.Message;
 import org.springframework.stereotype.Component;
 
 /**
- * Package: com.com.yltrcc.demo.service
+ * Package: com.yltrcc.demo.service
  * Date：2022-01-07
  * Time：5:21
  * Description：TODO

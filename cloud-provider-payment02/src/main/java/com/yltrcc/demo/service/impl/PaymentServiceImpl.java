@@ -9,7 +9,7 @@ import javax.annotation.Resource;
 
 /**
  * Project：spring-cloud-demo
- * package: com.com.yltrcc.demo.service.impl
+ * package: com.yltrcc.demo.service.impl
  * Date：2022-01-05
  * Time：4:44
  * Description：TODO

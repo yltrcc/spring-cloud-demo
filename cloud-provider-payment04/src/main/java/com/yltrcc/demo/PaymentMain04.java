@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * Package: com.com.yltrcc.demo
+ * Package: com.yltrcc.demo
  * Date：2022-01-05
  * Time：20:27
  * Description：TODO

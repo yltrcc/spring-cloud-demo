@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * Package: com.com.yltrcc.demo
+ * Package: com.yltrcc.demo
  * Date：2022-01-06
  * Time：6:57
  * Description：TODO

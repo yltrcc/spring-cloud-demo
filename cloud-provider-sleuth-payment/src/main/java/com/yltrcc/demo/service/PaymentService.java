@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * Project：spring-cloud-demo
- * package: com.com.yltrcc.demo.service
+ * package: com.yltrcc.demo.service
  * Date：2022-01-05
  * Time：4:43
  * Description：TODO

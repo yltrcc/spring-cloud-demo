@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * Package: com.com.yltrcc.demo.controller
+ * Package: com.yltrcc.demo.controller
  * Date：2022-01-06
  * Time：7:00
  * Description：TODO

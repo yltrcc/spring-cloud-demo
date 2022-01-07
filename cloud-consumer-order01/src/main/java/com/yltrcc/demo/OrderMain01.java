@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 
 /**
- * Package: com.com.yltrcc.demo
+ * Package: com.yltrcc.demo
  * Date：2022-01-05
  * Time：5:24
  * Description：TODO

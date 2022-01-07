@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 
 /**
  * Project：spring-cloud-demo
- * package: com.com.yltrcc.demo.controller
+ * package: com.yltrcc.demo.controller
  * Date：2022-01-05
  * Time：4:45
  * Description：TODO

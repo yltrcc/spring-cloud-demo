@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * Package: com.com.yltrcc.demo.service
+ * Package: com.yltrcc.demo.service
  * Date：2022-01-06
  * Time：19:02
  * Description：TODO
