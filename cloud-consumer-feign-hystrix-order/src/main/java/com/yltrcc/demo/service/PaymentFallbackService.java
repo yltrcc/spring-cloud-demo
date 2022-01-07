@@ -3,12 +3,12 @@ package com.yltrcc.demo.service;
 import org.springframework.stereotype.Component;
 
 /**
- * Package: com.yltrcc.demo.service
+ * Package: com.com.yltrcc.demo.service
  * Date：2022-01-06
  * Time：20:21
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @Component

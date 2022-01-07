@@ -5,12 +5,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * Package: com.yltrcc.demo
+ * Package: com.com.yltrcc.demo
  * Date：2022-01-05
  * Time：20:27
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @SpringBootApplication

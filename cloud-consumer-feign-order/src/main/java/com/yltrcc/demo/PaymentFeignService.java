@@ -8,12 +8,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * Package: com.yltrcc.demo
+ * Package: com.com.yltrcc.demo
  * Date：2022-01-06
  * Time：7:00
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @Component

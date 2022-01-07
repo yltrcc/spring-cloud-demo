@@ -9,12 +9,12 @@ import javax.annotation.Resource;
 
 /**
  * Project：spring-cloud-demo
- * package: com.yltrcc.demo.service.impl
+ * package: com.com.yltrcc.demo.service.impl
  * Date：2022-01-05
  * Time：4:44
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @Service

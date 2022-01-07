@@ -6,12 +6,12 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Package: com.yltrcc.demo.controller
+ * Package: com.com.yltrcc.demo.controller
  * Date：2022-01-05
  * Time：20:57
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @RestController

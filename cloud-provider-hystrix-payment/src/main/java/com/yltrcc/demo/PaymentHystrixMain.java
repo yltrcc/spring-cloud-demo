@@ -9,12 +9,12 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 
 /**
- * Package: com.yltrcc.demo
+ * Package: com.com.yltrcc.demo
  * Date：2022-01-06
  * Time：18:48
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @SpringBootApplication

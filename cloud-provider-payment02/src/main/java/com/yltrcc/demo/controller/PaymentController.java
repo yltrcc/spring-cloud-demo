@@ -11,12 +11,12 @@ import javax.annotation.Resource;
 
 /**
  * Project：spring-cloud-demo
- * package: com.yltrcc.demo.controller
+ * package: com.com.yltrcc.demo.controller
  * Date：2022-01-05
  * Time：4:45
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @RestController

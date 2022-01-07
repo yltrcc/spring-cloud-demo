@@ -7,12 +7,12 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 
 /**
- * Package: com.yltrcc.demo.controller
+ * Package: com.com.yltrcc.demo.controller
  * Date：2022-01-06
  * Time：3:32
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @RestController

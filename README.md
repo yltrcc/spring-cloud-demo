@@ -13,6 +13,7 @@ cloud-provider-payment03 - 8003
 cloud-provider-payment04 - 8004
 cloud-provider-consul-payment - 8006
 cloud-provider-hystrix-payment - 8007
+cloud-provider-sleuth-payment - 8008
 
 ## 服务消费者
 cloud-consumer-order01 - 80
@@ -20,6 +21,7 @@ cloud-consumer-zk-order - 80
 cloud-consumer-consul-order - 80
 cloud-consumer-feign-order - 80
 cloud-consumer-feign-hystrix-order - 80
+cloud-consumer-sleuth-order - 80
 
 ## Eureka 注册中心
 cloud-eureka-server01 - 7001

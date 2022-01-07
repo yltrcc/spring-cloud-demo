@@ -6,12 +6,12 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Package: com.yltrcc.demo.config
+ * Package: com.com.yltrcc.demo.config
  * Date：2022-01-05
  * Time：20:57
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @Configuration

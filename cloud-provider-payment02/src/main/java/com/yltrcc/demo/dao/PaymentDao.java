@@ -6,12 +6,12 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * Project：spring-cloud-demo
- * package: com.yltrcc.demo.dao
+ * package: com.com.yltrcc.demo.dao
  * Date：2022-01-05
  * Time：4:42
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @Mapper

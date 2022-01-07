@@ -5,12 +5,12 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * Project：spring-cloud-demo
- * package: com.yltrcc.demo.service
+ * package: com.com.yltrcc.demo.service
  * Date：2022-01-05
  * Time：4:43
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 public interface PaymentService {

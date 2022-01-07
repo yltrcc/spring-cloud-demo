@@ -10,12 +10,12 @@ import javax.annotation.Resource;
 import java.util.UUID;
 
 /**
- * Package: com.yltrcc.demo.service.impl
+ * Package: com.com.yltrcc.demo.service.impl
  * Date：2022-01-07
  * Time：5:15
  * Description：TODO
  *
- * @author yltrcc
+ * @author com.yltrcc
  * @version 1.0
  */
 @EnableBinding(Source.class) // 可以理解为是一个消息的发送管道的定义
