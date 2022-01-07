@@ -38,11 +38,14 @@ cloud-provider-sleuth-payment - 8008
 ## hystrix 图形化 dashboard
 cloud-consumer-hystrix-dashboard - 9001
 
-## Nacos
+## Nacos 作为注册中心
 cloud-alibaba-provider-payment - 9101
 cloud-alibaba-provider-payment02 - 9102
 
 cloud-alibaba-consumer-nacos-order - 83
+
+# Nacos 作为配置中心
+cloud-alibaba-config-nacos-client - 3377
 
 ## 网关
 cloud-gateway-gateway - 9527
