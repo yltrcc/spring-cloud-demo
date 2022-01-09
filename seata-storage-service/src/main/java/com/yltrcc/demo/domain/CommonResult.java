@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Package: com.yltrcc.demo.com.yltrcc.demo.domain
+ * Package: com.yltrcc.demo.domain
  * Date：2022-01-09
  * Time：9:53
  * Description：TODO

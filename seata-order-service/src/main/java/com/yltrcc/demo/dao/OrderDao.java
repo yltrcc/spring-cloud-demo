@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * Package: com.yltrcc.demo.com.yltrcc.demo.dao
+ * Package: com.yltrcc.demo.dao
  * Date：2022-01-09
  * Time：9:44
  * Description：TODO

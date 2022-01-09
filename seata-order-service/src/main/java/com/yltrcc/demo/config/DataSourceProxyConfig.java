@@ -13,7 +13,7 @@ import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import javax.sql.DataSource;
 
 /**
- * Package: com.yltrcc.demo.com.yltrcc.demo.config
+ * Package: com.yltrcc.demo.config
  * Date：2022-01-09
  * Time：9:50
  * Description：使用Seata对数据源进行代理

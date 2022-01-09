@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 
 /**
- * Package: com.yltrcc.demo.com.yltrcc.demo.service.impl
+ * Package: com.yltrcc.demo.service.impl
  * Date：2022-01-09
  * Time：9:56
  * Description：TODO

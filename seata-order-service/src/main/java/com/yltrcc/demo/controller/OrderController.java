@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Package: com.yltrcc.demo.com.yltrcc.demo.controller
+ * Package: com.yltrcc.demo.controller
  * Date：2022-01-09
  * Time：9:48
  * Description：TODO

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.math.BigDecimal;
 
 /**
- * Package: com.yltrcc.demo.com.yltrcc.demo.service
+ * Package: com.yltrcc.demo.service
  * Date：2022-01-09
  * Time：9:48
  * Description：TODO
