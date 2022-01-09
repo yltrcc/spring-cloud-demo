@@ -53,4 +53,8 @@ cloud-alibaba-config-nacos-client - 3377
 cloud-gateway-gateway - 9527
 
 
+# Seata
+seata-order-service - 2001
+seata-storage-service - 2002
+seata-account-service - 2003
 
