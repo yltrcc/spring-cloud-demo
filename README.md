@@ -27,6 +27,8 @@ cloud-provider-consul-payment - 8006
 cloud-provider-hystrix-payment - 8007
 cloud-provider-sleuth-payment - 8008
 
+## Sentinel
+cloud-alibaba-sentinel-service - 8401
 
 ## 消息队列
 
